@@ -1,2 +1,5 @@
 #github
-gitub is differnt 
+gitub is differnnt
+print(hello);
+hii
+dolly[];

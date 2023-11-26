@@ -1,5 +1,7 @@
 #include<stido.h>
 int main()
 {
-  print("hello")
+  print("hello");
+  scanf(%d,a);
 }
+//added a line
